@@ -1,5 +1,5 @@
 package goTestModule
 
 func Hello() {
-	print("Hello world!")
+	print("Hello world!!!")
 }
